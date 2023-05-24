@@ -1,16 +1,13 @@
-### Hi there 👋
+### ola seja bem vindo ♥️
 
-<!--
-**Arthur045/arthur045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Arthur Machado
 
-Here are some ideas to get you started:
+- Estou estudando no Alura 
+- estou me envolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## você pode entrar em contato comigo 📫 
+
+arthur.farinha@escola.pr.gov.br
+
+![cachorro](https://media.tenor.com/oxwCmw9vnmQAAAAM/dog-on-phone.gif)
